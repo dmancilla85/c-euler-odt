@@ -33,7 +33,7 @@ int main( int argc, char* argv[] )
 		}
 	}
 
-	// Tiene todos los par·metros requeridos?
+	// Tiene todos los par√°metros requeridos?
 	if(argc != 11 && !DEBUG)
 	{
 		printf("No se ingresaron todos los parametros obligatorios\n");
